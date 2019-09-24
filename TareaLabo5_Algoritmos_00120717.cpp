@@ -133,7 +133,7 @@ int main(){
 	
 	borrar(root,30);
 	printf("\nInOrder\n");
-	preorder(root);
+	inorder(root);
 	return 0;
 
 
